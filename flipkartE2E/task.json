@@ -1,0 +1,8 @@
+{
+  "url": "https://www.flipkart.com/",
+  "productIndexes": [5, 8],
+  "quantities": {
+    "product1": 5,
+    "product2": 4
+  }
+}
